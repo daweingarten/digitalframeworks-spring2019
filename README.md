@@ -7,4 +7,4 @@ This is for a class called digital frameworks. I am learning about GitHub in thi
 
 First Header | Second Header
 -------------|---------------
-first content second content
+first content| second content
