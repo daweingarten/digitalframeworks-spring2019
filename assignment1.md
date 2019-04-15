@@ -1,11 +1,13 @@
 # Assignment 1
-Due at 6 pm next Tuesday
 
-**Story Idea #1-_Immigration as a global issue._** Much of the news focus in the United States, however, has been on immigration to the United States from Central America through Mexico. I would like to compare the data on how many people the United States returns to their home country to how many people the countries in the European Union return to their home country. This comparison could be a good reference point for American readers to start thinking of immigration in a global context. The question is: Is the European Union as a whole more accepting of immigrants than the United States?
 
-**Story Idea #2-_Refugees in the United States._** Over the past three decades, the amount of refugees that the United States has taken in has gone from over 200,000 a year to less than 25,000. I would like to compare this data of declining acceptance in the U.S. to the world’s need for refuge for displaced persons. I hope to be able to answer whether the increasing need is causing the declining acceptance in the U.S. or if the declining acceptance in the U.S. is independent of the need. It would also be interesting to look at the data across presidential administrations to see if political party of the president has anything to do with the number of refugees accepted. Seeing where the refugees end up in the United States is also a question I would like to answer.  
+##**Story Idea #1-_Immigration as a global issue._** 
+Much of the news focus in the United States, however, has been on immigration to the United States from Central America through Mexico. I would like to compare the data on how many people the United States returns to their home country to how many people the countries in the European Union return to their home country. This comparison could be a good reference point for American readers to start thinking of immigration in a global context. The question is: Is the European Union as a whole more accepting of immigrants than the United States?
 
-**Story Critique #1**
+##**Story Idea #2-_Refugees in the United States._** 
+Over the past three decades, the amount of refugees that the United States has taken in has gone from over 200,000 a year to less than 25,000. I would like to compare this data of declining acceptance in the U.S. to the world’s need for refuge for displaced persons. I hope to be able to answer whether the increasing need is causing the declining acceptance in the U.S. or if the declining acceptance in the U.S. is independent of the need. It would also be interesting to look at the data across presidential administrations to see if political party of the president has anything to do with the number of refugees accepted. Seeing where the refugees end up in the United States is also a question I would like to answer.  
+
+## **Story Critique #1**
 ([Migration in Bulgaria]( https://www.intellinews.com/bulgaria-s-working-age-population-contracts-sharply-in-2018-159594/)) 
 
 ###  Clarity and accuracy
@@ -37,7 +39,7 @@ The story did present and compare the data, but it was not organized and correla
 2. The story was not well done. There were no graphics. The map is not as meaningful without the photograph. The most important data for my purposes was not in the graphic. 
 
 
-**Story Critique #2**
+##**Story Critique #2**
 ([A snapshot of where migrants go after release into the United States](https://www.washingtonpost.com/immigration/2019/04/13/snapshot-where-migrants-go-after-release-into-united-states/?utm_term=.755e6c95bd3b)) 
 
 ###  Clarity and accuracy
