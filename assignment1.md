@@ -1,5 +1,5 @@
 # Assignment 1
-
+### By Dwight A. Weingarten
 
 ## **Story Idea #1-_Immigration as a global issue._** 
 Much of the news focus in the United States has been on immigration to the United States from Central America through Mexico. I would like to compare the data on how many people the United States returns to their home country to how many people the countries in the European Union return to their home country. This comparison could be a good reference point for American readers to start thinking of immigration in a global context. The question is: Is the European Union as a whole more accepting of immigrants than the United States?
