@@ -26,6 +26,7 @@ _**Clarity**_
    1. Germany| 7% 
   
 _**Accuracy**_
+
 5. I don’t question the accuracy of the data. I also do not know enough about Bulgaria to think otherwise. The reporters do list the source as the National Statistical Institute and link to their source and everything is explained.  
 
 ###  Quality
