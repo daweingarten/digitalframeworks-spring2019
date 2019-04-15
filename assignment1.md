@@ -2,10 +2,10 @@
 
 
 ## **Story Idea #1-_Immigration as a global issue._** 
-Much of the news focus in the United States, however, has been on immigration to the United States from Central America through Mexico. I would like to compare the data on how many people the United States returns to their home country to how many people the countries in the European Union return to their home country. This comparison could be a good reference point for American readers to start thinking of immigration in a global context. The question is: Is the European Union as a whole more accepting of immigrants than the United States?
+Much of the news focus in the United States has been on immigration to the United States from Central America through Mexico. I would like to compare the data on how many people the United States returns to their home country to how many people the countries in the European Union return to their home country. This comparison could be a good reference point for American readers to start thinking of immigration in a global context. The question is: Is the European Union as a whole more accepting of immigrants than the United States?
 
 ## **Story Idea #2-_Refugees in the United States._** 
-Over the past three decades, the amount of refugees that the United States has taken in has gone from over 200,000 a year to less than 25,000. I would like to compare this data of declining acceptance in the U.S. to the world’s need for refuge for displaced persons. I hope to be able to answer whether the increasing need is causing the declining acceptance in the U.S. or if the declining acceptance in the U.S. is independent of the need. It would also be interesting to look at the data across presidential administrations to see if political party of the president has anything to do with the number of refugees accepted. Seeing where the refugees end up in the United States is also a question I would like to answer.  
+Over the past three decades, the amount of refugees that the United States has taken in has gone from over 200,000 a year to less than 25,000. I would like to compare this data of declining acceptance in the U.S. to the world’s need for refuge for displaced persons. I hope to be able to answer whether the increasing need is causing the declining acceptance in the U.S. Or if the declining acceptance in the U.S. is independent of the need. It would also be interesting to look at the data across presidential administrations to see if political party of the president has anything to do with the number of refugees accepted. Seeing where the refugees end up in the United States is also a question I would like to answer.  
 
 ## **Story Critique #1**
 ([Migration in Bulgaria]( https://www.intellinews.com/bulgaria-s-working-age-population-contracts-sharply-in-2018-159594/)) 
@@ -13,18 +13,21 @@ Over the past three decades, the amount of refugees that the United States has t
 ###  Clarity and accuracy
 
 _**Clarity**_
+
 2. The story is about people leaving Bulgaria, but the headline would seem to indicate otherwise. 
 
 3. Navigating the data was not easy. Having three shades of blue did not make the data “pop.” The data was not always contained in the map. A chart or a graph would have been easier to read such as this:
 
   **Migration to Bulgaria,** 
   **Countries by percentage**
+  
 **Turkey |29%
   Russia |11%
   Germany| 7%**
   
 _**Accuracy**_
 5. I don’t question the accuracy of the data. I also do not know enough about Bulgaria to think otherwise. The reporters do list the source as the National Statistical Institute and link to their source and everything is explained.  
+
 ###  Quality
 
 3. Using the map to show where the migrants left from is a good idea, if you are in Bulgaria. I am more interested in the country as a whole, not the specific regions in Bulgaria. 
