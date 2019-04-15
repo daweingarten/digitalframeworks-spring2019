@@ -17,11 +17,11 @@ _**Clarity**_
 
 3. Navigating the data was not easy. Having three shades of blue did not make the data “pop.” The data was not always contained in the map. A chart or a graph would have been easier to read such as this:
 
-  **Migration to Bulgaria** 
+  **Migration to Bulgaria,** 
   **Countries by percentage**
-**_*Turkey |29%
-  *Russia |11%
-  *Germany| 7%_**
+**Turkey |29%
+  Russia |11%
+  Germany| 7%**
   
 _**Accuracy**_
 5. I don’t question the accuracy of the data. I also do not know enough about Bulgaria to think otherwise. The reporters do list the source as the National Statistical Institute and link to their source and everything is explained.  
