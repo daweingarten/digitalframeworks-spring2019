@@ -4,6 +4,7 @@
 ## Original Ravens Scoring File
 
 This document shows the original downloaded file.
+https://docs.google.com/spreadsheets/d/1PK3VIWmKZdGsdrCuv-S3_J1RUlLaYHqPQffDAVsa42Y/edit#gid=0
 
 ## Steps to Clean
 1) I used the comma delimiter for the entire set.
@@ -20,5 +21,6 @@ This document shows the original downloaded file.
 ## Final Ravens Scoring File
 
 This document shows the final version after the steps were followed. 
+https://docs.google.com/spreadsheets/d/1ndHsCLgcXp3TbrXPdwuDzryaRsWYLCWG3vQvqRTiI14/edit#gid=0
     
 
