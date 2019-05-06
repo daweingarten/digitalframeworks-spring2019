@@ -1,4 +1,5 @@
 # Assignment 3--Data Cleaning
+### By Dwight A. Weingarten
 
 ## Original Ravens Scoring File
 
