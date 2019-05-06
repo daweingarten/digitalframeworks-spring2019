@@ -1,6 +1,9 @@
 # Assignment 3--Data Cleaning
 ### By Dwight A. Weingarten
 
+I chose to examine the all-time Baltimore Ravens scoring list with data obtained here. <br>
+https://www.pro-football-reference.com/teams/rav/career-scoring.htm
+
 ## Original Ravens Scoring File
 
 This document shows the original downloaded file. <br>
