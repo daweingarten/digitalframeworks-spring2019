@@ -2,7 +2,7 @@
 
 ### What data source(s) you plan on using (though you can always add more later)
 
-I plan on using https://explorer.usaid.gov/cd/SLV, https://explorer.usaid.gov/cd/HND, https://explorer.usaid.gov/cd/NIC, and https://www.cia.gov/library/publications/the-world-factbook/geos/ 
+I plan on using https://explorer.usaid.gov/cd/SLV, https://explorer.usaid.gov/cd/HND, https://explorer.usaid.gov/cd/NIC, and https://www.cia.gov/library/publications/the-world-factbook/geos/. 
 
 ### Some sources you can talk to about the data or to get anecdotes from it
 I can talk to EADS@usaid.gov for more info on the data as they are the ones who compiled it.  I can also talk to American embassies in those countries for anecdotes.
