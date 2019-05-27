@@ -6,9 +6,15 @@ https://explorer.usaid.gov/prepared/us_foreign_aid_complete.csv
 
 <br> a) Which Northern Triangle country did the U.S. provide the most aid to? </br>
 
+_Honduras_
+
 <br> b) What sector (government or non-government organizations) did the U.S. provide the most aid to?  </br>
- 
+
+_Government_
+
 <br> c) What organization recieved the most money? </br>
+
+_U.S. Agency for International Development_
 
 ## 2) Additionally, write down all steps used to clean and analyze the data, including any Excel formulas.
  <br> a) The first thing I did was filter the data to get the three countries in the Northern Triangle (El Salvador, Guatemala, and Honduras) </br>
