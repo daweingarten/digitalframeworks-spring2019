@@ -3,7 +3,8 @@
 
 ## 1) A link to the dataset (which you can include in your repository), your questions, as well as the answers to those questions.
 https://explorer.usaid.gov/prepared/us_foreign_aid_complete.csv
-a) Which Northern Triangle country did the U.S. provide the most aid to?
+
+<br> a) Which Northern Triangle country did the U.S. provide the most aid to? </br>
 b) What sector (government or non-government organizations) did the U.S. provide the most aid to?
 c) What organization recieved the most money?
 
@@ -72,7 +73,7 @@ Grand Total	31462	21581668040	34046295977
 
 e) The final thing I did was pull out the implementing agency name by putting that in my rows. This enabled me to see which agency was getting the money and how it was classified. 
 ## 3)Lastly, write a sample headline and nut graf based on the most interesting of the three questions. 
-### In El Salvador, the U.S. spends more money on the Peace Corps than the Department of Defense.
+### In El Salvador, the U.S. spends more money on the Peace Corps than the Department of Defense
 In an age where spending on defense is exorbitant, the latest data from U.S. Aid shows an interesting fact. The U.S. spends more on the Peace Corps than the Department of Defense in El Salvador. In 2018, the U.S. spent nearly 94 million on the Peace Corps, three million more than on Defense in that country. In fact, this is the only country in the Northern Triangle where this is the case. 
 
 
