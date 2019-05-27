@@ -52,7 +52,7 @@ Country name and Channel category name are my rows, with count of country code a
 
 <br> d) The fourth thing I did was add the current amount and constant amount to the values column. This gets me an understanding of where the money is going and how much. </br>
 
-Row Labels	Count of country_code	Sum of current_amount	Sum of constant_amount
+### Row Labels	Count of country_code	Sum of current_amount	Sum of constant_amount
 ### El Salvador	8240	8817386878	14212674200
 <br> Church and Faith Based	178	72567568	86700994 </br>
 <br> Enterprises	3018	931514086	1042286183 </br>
@@ -80,7 +80,8 @@ Row Labels	Count of country_code	Sum of current_amount	Sum of constant_amount
 <br> Grand Total	31462	21581668040	34046295977 </br>
 
 e) The final thing I did was pull out the implementing agency name by putting that in my rows. This enabled me to see which agency was getting the money and how it was classified. 
-## 3)Lastly, write a sample headline and nut graf based on the most interesting of the three questions. 
+
+## 3) Lastly, write a sample headline and nut graf based on the most interesting of the three questions. 
 
 ### In El Salvador, the U.S. spends more money on the Peace Corps than the Department of Defense
  
