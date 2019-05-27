@@ -85,7 +85,7 @@ e) The final thing I did was pull out the implementing agency name by putting th
 
 ### In El Salvador, the U.S. spends more money on the Peace Corps than the Department of Defense
  
-<br> In an age where spending on defense is exorbitant, the latest data from U.S. Aid shows an interesting fact. The U.S. spends more on the Peace Corps than the Department of Defense in El Salvador. In 2018, the U.S. spent nearly 94 million on the Peace Corps, three million more than on Defense in that country. In fact, this is the only country in the Northern Triangle where this is the case. </br>
+<br> In an age where spending on defense is exorbitant, the latest data from U.S. AID shows an interesting fact. The U.S. spends more on the Peace Corps than the Department of Defense in El Salvador. In 2018, the U.S. spent nearly 94 million on the Peace Corps, three million more than on Defense in that country. In fact, this is the only country in the Northern Triangle where this is the case. </br>
 
 
 
