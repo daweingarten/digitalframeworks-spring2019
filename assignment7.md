@@ -8,9 +8,7 @@ To follow up on this story, I would investigate each of the candidates Lightfoot
 1.	Searched the FEC website for donations in the 2017-2018 election cycle from Lori Lightfoot.
 2.	This was after I searched campaign contributions made by players in the starting 5’s for the NBA Finals. There were none. I then moved on to NFL players, Peyton Manning contributed to Jeb Bush, but this had been reported previously. 
 3.	Repeated the previous step for previous election cycles going back to 2003. 
-4.	For both CSVs, I:
-o	took the the committee name column
-o	made a pivot table to get the unique number of contributions to each campaign. </br>
+4.	For both CSVs, I took the the committee name column and made a pivot table to get the unique number of contributions to each campaign. </br>
 
 ### Headline: Lightfoot big contributor to other politicians in the state
 
